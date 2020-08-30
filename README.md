@@ -31,11 +31,13 @@ Have a link/details of guided program, which users need to sign up for
 - Edge cases
 - Design patterns/ KISS/ DRY
 
+## Module 2
+
 ## 4. Modelling data
 
 ## 5. Front and Back
 
-# Module 2
+# Module 3
 
 ## 6. Backend
 
