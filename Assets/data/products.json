@@ -1,0 +1,160 @@
+{
+    "categories": [{
+            "name": "cupcakes and brownies",
+            "description": ""
+        },
+        {
+            "name": "cookies",
+            "description": ""
+        },
+        {
+            "name": "cakes and pastries",
+            "description": ""
+        },
+        {
+            "name": "breads",
+            "description": ""
+        },
+        {
+            "name": "pies and tarts",
+            "description": ""
+        }
+    ],
+    "sellingUnits": ["grams", "numbers", "pack"],
+    "products": [{
+            "id": 1,
+            "name": "classic vanilla cupcake",
+            "category": "cupcakes and brownies",
+            "description": "",
+            "tags": "",
+            "labels": [],
+            "pricePerUnit": 0.00,
+            "images": [],
+            "ingredients": [],
+            "sellingUnits": "numbers"
+        },
+        {
+            "id": 2,
+            "name": "classic chocolate cupcake",
+            "category": "cupcakes and brownies",
+            "description": "",
+            "tags": "",
+            "labels": [],
+            "pricePerUnit": 0.00,
+            "images": [],
+            "ingredients": [],
+            "sellingUnits": "numbers"
+        },
+        {
+            "id": 3,
+            "name": "mini cupcakes and brownies",
+            "category": "cupcakes and brownies",
+            "description": "",
+            "tags": "",
+            "labels": [],
+            "pricePerUnit": 0.00,
+            "images": [],
+            "ingredients": [],
+            "sellingUnits": "numbers"
+        },
+        {
+            "id": 4,
+            "name": "mini cupcakes and brownies",
+            "category": "cupcakes and brownies",
+            "description": "",
+            "tags": "",
+            "labels": [],
+            "pricePerUnit": 0.00,
+            "images": [],
+            "ingredients": [],
+            "sellingUnits": "pack"
+        },
+        {
+            "id": 5,
+            "name": "red velvet",
+            "category": "cupcakes and brownies",
+            "description": "",
+            "tags": "",
+            "labels": [],
+            "pricePerUnit": 0.00,
+            "images": [],
+            "ingredients": [],
+            "sellingUnits": "numbers"
+        },
+        {
+            "id": 6,
+            "name": "chocolate chunk brownie",
+            "category": "cupcakes and brownies",
+            "description": "",
+            "tags": "",
+            "labels": [],
+            "pricePerUnit": 0.00,
+            "images": [],
+            "ingredients": [],
+            "sellingUnits": "numbers"
+        },
+        {
+            "id": 7,
+            "name": "marbled brownie",
+            "category": "cupcakes and brownies",
+            "description": "",
+            "tags": "",
+            "labels": [],
+            "pricePerUnit": 0.00,
+            "images": [],
+            "ingredients": [],
+            "sellingUnits": "numbers"
+        },
+        {
+            "id": 8,
+            "name": "classic cookies",
+            "category": "cookies",
+            "description": "",
+            "tags": "",
+            "labels": [],
+            "pricePerUnit": 0.00,
+            "images": [],
+            "ingredients": [
+                "Cracked Sugar",
+                "Brown Sugar",
+                "Chocolate Chunk",
+                "Peanut Butter",
+                "Oatmeal Raisin"
+            ],
+            "sellingUnits": "grams"
+        },
+        {
+            "id": 9,
+            "name": "sea salt caramel cookies",
+            "category": "cookies",
+            "description": "",
+            "tags": "",
+            "labels": [],
+            "pricePerUnit": 0.00,
+            "images": [],
+            "ingredients": [
+                "caramel candy",
+                "sea salt"
+            ],
+            "sellingUnits": "grams"
+        },
+        {
+            "id": 10,
+            "name": "flourless cake",
+            "category": "cake and pastries",
+            "description": "",
+            "tags": "",
+            "labels": ["gluten free"],
+            "pricePerUnit": 0.00,
+            "images": [],
+            "ingredients": [
+
+            ],
+            "sellingUnits": "grams"
+        }
+
+
+
+
+    ]
+}
