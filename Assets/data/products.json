@@ -175,9 +175,9 @@
             "id": 7,
             "name": "marbled brownie",
             "category": "cupcakes and brownies",
-            "description": "",
-            "tags": "",
-            "labels": [],
+            "description": "These marbled cheesecake brownies are a total crowd pleaser! The combination of rich, fudgy chocolate and tangy cream cheese just can’t miss!",
+            "tags": ["brownie"],
+            "labels": ["brownies", "best seller"],
             "pricePerUnit": 0.0,
             "images": [{
                     "url": "https://drive.google.com/file/d/1J5_FYsNNGVHIif_HzwC8mHfgC0BG-xQ1/view?usp=sharing",
@@ -192,9 +192,14 @@
                     "alt": "marbled brownie"
                 }
             ],
-            "ingredients": [],
+            "ingredients": [
+                "eggs",
+                "vanilla",
+                "cocoa powder",
+                "cream cheese"
+            ],
             "sellingUnits": "numbers",
-            "calories": 162.00
+            "calories": 178.00
         },
         {
             "id": 8,
