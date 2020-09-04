@@ -125,13 +125,26 @@
             "id": 5,
             "name": "red velvet cupcake",
             "category": "cupcakes and brownies",
-            "description": "",
-            "tags": "",
-            "labels": [],
-            "pricePerUnit": 0.0,
-            "images": [],
-            "ingredients": [],
-            "sellingUnits": "numbers"
+            "description": "The Best Red Velvet Cupcake Recipe with Cream Cheese Frosting.",
+            "tags": ["red velvet", "cupcake"],
+            "labels": ["eggless", "vegetarian"],
+            "pricePerUnit": 45.00,
+            "images": [{
+                    "url": "https://drive.google.com/file/d/1OphadhFX5GcTxZQSHtpHk_2DfzoghAXE/view?usp=sharing",
+                    "alt": "red velvet cupcake"
+                },
+                {
+                    "url": "https://drive.google.com/file/d/1YREUykFv2SIEBwV63Gvjx766Pqet-SBx/view?usp=sharing",
+                    "alt": "red velvet cupcake"
+                },
+                {
+                    "url": "https://drive.google.com/file/d/1TEvdtwKXKNhVzZ_917pBS1vwItU523Zo/view?usp=sharing",
+                    "alt": "red velvet cupcake"
+                }
+            ],
+            "ingredients": ["almond", "buttermilk", "vinegar"],
+            "sellingUnits": "numbers",
+            "calories": 170.00
         },
         {
             "id": 6,
