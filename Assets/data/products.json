@@ -25,37 +25,73 @@
             "id": 1,
             "name": "classic vanilla cupcake",
             "category": "cupcakes and brownies",
-            "description": "",
-            "tags": "",
-            "labels": [],
-            "pricePerUnit": 0.00,
-            "images": [],
-            "ingredients": [],
+            "description": "Absolutely perfect vanilla cupcakes with vanilla frosting are super moist, buttery and melt in your mouth. Topped with silky smooth vanilla buttercream frosting – a classic combination!",
+            "tags": ["vanilla", "cupcake", "nonveg"],
+            "labels": ["classic", "nonveg"],
+            "pricePerUnit": 40.0,
+            "images": [{
+                    "url": "https://drive.google.com/file/d/1-zTijLzs1XwXRhjX4E-RIG-ogUo0tHXh/view?usp=sharing",
+                    "alt": "vanilla cupcake"
+                },
+                {
+                    "url": "https://drive.google.com/file/d/1lbw4eGKSh11ZdDB0Sk0A1iG-k99Oczef/view?usp=sharing",
+                    "alt": "vanilla cupcake"
+                },
+                {
+                    "url": "https://drive.google.com/file/d/1I99rFoIJ-NpmPjac2mgxav5iUbC47cMM/view?usp=sharing",
+                    "alt": "vanilla cupcake"
+                }
+            ],
+            "ingredients": ["eggs", "vanilla", "sugar", "sour cream"],
             "sellingUnits": "numbers"
         },
         {
             "id": 2,
             "name": "classic chocolate cupcake",
             "category": "cupcakes and brownies",
-            "description": "",
-            "tags": "",
-            "labels": [],
-            "pricePerUnit": 0.00,
-            "images": [],
-            "ingredients": [],
+            "description": "The cupcake is so moist, it melts in your mouth and the frosting is made with real melted chocolate for a silky smooth, super chocolatey frosting you won’t want to stop eating!",
+            "tags": ["chocolate", "fresh"],
+            "labels": ["classic", "nonveg"],
+            "pricePerUnit": 45.0,
+            "images": [{
+                    "url": "https://drive.google.com/file/d/1jGoK2H8k5D3Nca_M9YKxiKJAWrRl2N2e/view?usp=sharing",
+                    "alt": "chocolate cupcake"
+                },
+                {
+                    "url": "https://drive.google.com/file/d/1rtc3FDLZCS_L2wKMEBuoZkjRGhx5YXx0/view?usp=sharing",
+                    "alt": "chocolate cupcake"
+                },
+                {
+                    "url": "https://drive.google.com/file/d/1fiv7GNkGZzGQNlgHVKhbLBDq2bWVQEIv/view?usp=sharing",
+                    "alt": "chocolate cupcake"
+                }
+            ],
+            "ingredients": ["eggs", "sugar", "buttermilk", "chocolate"],
             "sellingUnits": "numbers"
         },
         {
             "id": 3,
-            "name": "mini cupcakes and brownies",
+            "name": "mini cupcakes (pack of 6)",
             "category": "cupcakes and brownies",
-            "description": "",
-            "tags": "",
-            "labels": [],
-            "pricePerUnit": 0.00,
-            "images": [],
+            "description": "Mini cupcakes are perfectly-sized treats that are always a hit at parties.",
+            "tags": ["cupcakes", "eggless"],
+            "labels": ["vegetarian"],
+            "pricePerUnit": 75.0,
+            "images": [{
+                    "url": "https://drive.google.com/file/d/1rQmlqU7uQQtc1zlTUcR7UJzKFU8Rt6e9/view?usp=sharing",
+                    "alt": "mini cupcake"
+                },
+                {
+                    "url": "https://drive.google.com/file/d/1d9ealeAvh0dckTVD7XXRKU0LtIY2YXNQ/view?usp=sharing",
+                    "alt": "mini cupcake"
+                },
+                {
+                    "url": "https://drive.google.com/file/d/1hGW7ZYRf7YV7dVukmdRbpfYqF2jgdpFW/view?usp=sharing",
+                    "alt": "mini cupcake"
+                }
+            ],
             "ingredients": [],
-            "sellingUnits": "numbers"
+            "sellingUnits": "pack"
         },
         {
             "id": 4,
@@ -64,7 +100,7 @@
             "description": "",
             "tags": "",
             "labels": [],
-            "pricePerUnit": 0.00,
+            "pricePerUnit": 0.0,
             "images": [],
             "ingredients": [],
             "sellingUnits": "pack"
@@ -76,7 +112,7 @@
             "description": "",
             "tags": "",
             "labels": [],
-            "pricePerUnit": 0.00,
+            "pricePerUnit": 0.0,
             "images": [],
             "ingredients": [],
             "sellingUnits": "numbers"
@@ -88,7 +124,7 @@
             "description": "",
             "tags": "",
             "labels": [],
-            "pricePerUnit": 0.00,
+            "pricePerUnit": 0.0,
             "images": [],
             "ingredients": [],
             "sellingUnits": "numbers"
@@ -100,7 +136,7 @@
             "description": "",
             "tags": "",
             "labels": [],
-            "pricePerUnit": 0.00,
+            "pricePerUnit": 0.0,
             "images": [],
             "ingredients": [],
             "sellingUnits": "numbers"
@@ -112,7 +148,7 @@
             "description": "",
             "tags": "",
             "labels": [],
-            "pricePerUnit": 0.00,
+            "pricePerUnit": 0.0,
             "images": [],
             "ingredients": [
                 "Cracked Sugar",
@@ -130,12 +166,9 @@
             "description": "",
             "tags": "",
             "labels": [],
-            "pricePerUnit": 0.00,
+            "pricePerUnit": 0.0,
             "images": [],
-            "ingredients": [
-                "caramel candy",
-                "sea salt"
-            ],
+            "ingredients": ["caramel candy", "sea salt"],
             "sellingUnits": "grams"
         },
         {
@@ -145,16 +178,10 @@
             "description": "",
             "tags": "",
             "labels": ["gluten free"],
-            "pricePerUnit": 0.00,
+            "pricePerUnit": 0.0,
             "images": [],
-            "ingredients": [
-
-            ],
+            "ingredients": [],
             "sellingUnits": "grams"
         }
-
-
-
-
     ]
 }
