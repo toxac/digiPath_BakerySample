@@ -43,7 +43,8 @@
                 }
             ],
             "ingredients": ["eggs", "vanilla", "sugar", "sour cream"],
-            "sellingUnits": "numbers"
+            "sellingUnits": "numbers",
+            "calories": 130.50
         },
         {
             "id": 2,
@@ -67,7 +68,8 @@
                 }
             ],
             "ingredients": ["eggs", "sugar", "buttermilk", "chocolate"],
-            "sellingUnits": "numbers"
+            "sellingUnits": "numbers",
+            "calories": 170.45
         },
         {
             "id": 3,
@@ -90,24 +92,38 @@
                     "alt": "mini cupcake"
                 }
             ],
-            "ingredients": [],
-            "sellingUnits": "pack"
+            "ingredients": ["chocolate", "vanilla"],
+            "sellingUnits": "pack",
+            "calories": 160.50
         },
         {
             "id": 4,
-            "name": "mini cupcakes and brownies",
+            "name": "Chocolate brownies (2 in a pack)",
             "category": "cupcakes and brownies",
-            "description": "",
-            "tags": "",
-            "labels": [],
-            "pricePerUnit": 0.0,
-            "images": [],
-            "ingredients": [],
-            "sellingUnits": "pack"
+            "description": "Best fudgiest brownies is my best brownie recipe! perfect crisp crackly top, super fudgy centre, chewy or gooey in all the right places, studded with melted chunks of chocolate.",
+            "tags": ["brownie", "chocolate chip"],
+            "labels": ["classic", "chocolate"],
+            "pricePerUnit": 60.00,
+            "images": [{
+                    "url": "https://drive.google.com/file/d/13Sp7gxDWAAHK-FBhKnotwOekNAwY43jz/view?usp=sharing",
+                    "alt": "brownie"
+                },
+                {
+                    "url": "https://drive.google.com/file/d/1a2y5xHHY6d_uywxBkN7U5ZiONOiY0sFE/view?usp=sharing",
+                    "alt": "brownie"
+                },
+                {
+                    "url": "https://drive.google.com/file/d/1214sttPY50OxWOtyJdnz4-2B0y56GmiG/view?usp=sharing",
+                    "alt": "brownie"
+                }
+            ],
+            "ingredients": ["eggs", "chocolate", "honey"],
+            "sellingUnits": "pack",
+            "calories": 182.7
         },
         {
             "id": 5,
-            "name": "red velvet",
+            "name": "red velvet cupcake",
             "category": "cupcakes and brownies",
             "description": "",
             "tags": "",
