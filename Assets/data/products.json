@@ -148,15 +148,28 @@
         },
         {
             "id": 6,
-            "name": "chocolate chunk brownie",
+            "name": "gluten free lemon cupcake",
             "category": "cupcakes and brownies",
-            "description": "",
-            "tags": "",
-            "labels": [],
-            "pricePerUnit": 0.0,
-            "images": [],
-            "ingredients": [],
-            "sellingUnits": "numbers"
+            "description": "These light and fluffy gluten-free lemon cupcakes topped with lemon cream cheese frosting burst with lemon flavor. This easy recipe has a moist crumb and will be the highlight of any party!",
+            "tags": ["cupcake", "gluten free", "lemon"],
+            "labels": ["gluten free", "vegetarian"],
+            "pricePerUnit": 60.00,
+            "images": [{
+                    "url": "https://drive.google.com/file/d/1_6kcYB12bIMgO-AB22YwigVvsNE76DQY/view?usp=sharing",
+                    "alt": "gluten free lemon cupcake"
+                },
+                {
+                    "url": "https://drive.google.com/file/d/1bEHE7iPKhpErsohoFtKxYkYg7WMYBVR-/view?usp=sharing",
+                    "alt": "gluten free lemon cupcake"
+                },
+                {
+                    "url": "https://drive.google.com/file/d/1q9V5ClLAy2febK0RRDGa4r-NwWZbaDZl/view?usp=sharing",
+                    "alt": "gluten free lemon cupcake"
+                }
+            ],
+            "ingredients": ["lemon", "almond", "oat", "millet", "sweet rice"],
+            "sellingUnits": "numbers",
+            "calories": 155.00
         },
         {
             "id": 7,
@@ -166,9 +179,22 @@
             "tags": "",
             "labels": [],
             "pricePerUnit": 0.0,
-            "images": [],
+            "images": [{
+                    "url": "https://drive.google.com/file/d/1J5_FYsNNGVHIif_HzwC8mHfgC0BG-xQ1/view?usp=sharing",
+                    "alt": "marbled brownie"
+                },
+                {
+                    "url": "https://drive.google.com/file/d/1XUkpUV8_pxvoHSVwd22Z-_Q2b8MW0lAI/view?usp=sharing",
+                    "alt": "marbled brownie"
+                },
+                {
+                    "url": "https://drive.google.com/file/d/1LzEoflK0A-SGl67Ckt5CLt0ZfdGzF9wz/view?usp=sharing",
+                    "alt": "marbled brownie"
+                }
+            ],
             "ingredients": [],
-            "sellingUnits": "numbers"
+            "sellingUnits": "numbers",
+            "calories": 162.00
         },
         {
             "id": 8,
