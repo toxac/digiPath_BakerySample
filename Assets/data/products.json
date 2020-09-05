@@ -44,7 +44,7 @@
             ],
             "ingredients": ["eggs", "vanilla", "sugar", "sour cream"],
             "sellingUnits": "numbers",
-            "calories": 130.50
+            "calories": 130.5
         },
         {
             "id": 2,
@@ -94,7 +94,7 @@
             ],
             "ingredients": ["chocolate", "vanilla"],
             "sellingUnits": "pack",
-            "calories": 160.50
+            "calories": 160.5
         },
         {
             "id": 4,
@@ -103,7 +103,7 @@
             "description": "Best fudgiest brownies is my best brownie recipe! perfect crisp crackly top, super fudgy centre, chewy or gooey in all the right places, studded with melted chunks of chocolate.",
             "tags": ["brownie", "chocolate chip"],
             "labels": ["classic", "chocolate"],
-            "pricePerUnit": 60.00,
+            "pricePerUnit": 60.0,
             "images": [{
                     "url": "https://drive.google.com/file/d/13Sp7gxDWAAHK-FBhKnotwOekNAwY43jz/view?usp=sharing",
                     "alt": "brownie"
@@ -128,7 +128,7 @@
             "description": "The Best Red Velvet Cupcake Recipe with Cream Cheese Frosting.",
             "tags": ["red velvet", "cupcake"],
             "labels": ["eggless", "vegetarian"],
-            "pricePerUnit": 45.00,
+            "pricePerUnit": 45.0,
             "images": [{
                     "url": "https://drive.google.com/file/d/1OphadhFX5GcTxZQSHtpHk_2DfzoghAXE/view?usp=sharing",
                     "alt": "red velvet cupcake"
@@ -144,7 +144,7 @@
             ],
             "ingredients": ["almond", "buttermilk", "vinegar"],
             "sellingUnits": "numbers",
-            "calories": 170.00
+            "calories": 170.0
         },
         {
             "id": 6,
@@ -153,7 +153,7 @@
             "description": "These light and fluffy gluten-free lemon cupcakes topped with lemon cream cheese frosting burst with lemon flavor. This easy recipe has a moist crumb and will be the highlight of any party!",
             "tags": ["cupcake", "gluten free", "lemon"],
             "labels": ["gluten free", "vegetarian"],
-            "pricePerUnit": 60.00,
+            "pricePerUnit": 60.0,
             "images": [{
                     "url": "https://drive.google.com/file/d/1_6kcYB12bIMgO-AB22YwigVvsNE76DQY/view?usp=sharing",
                     "alt": "gluten free lemon cupcake"
@@ -169,7 +169,7 @@
             ],
             "ingredients": ["lemon", "almond", "oat", "millet", "sweet rice"],
             "sellingUnits": "numbers",
-            "calories": 155.00
+            "calories": 155.0
         },
         {
             "id": 7,
@@ -192,47 +192,71 @@
                     "alt": "marbled brownie"
                 }
             ],
-            "ingredients": [
-                "eggs",
-                "vanilla",
-                "cocoa powder",
-                "cream cheese"
-            ],
+            "ingredients": ["eggs", "vanilla", "cocoa powder", "cream cheese"],
             "sellingUnits": "numbers",
-            "calories": 178.00
+            "calories": 178.0
         },
         {
             "id": 8,
-            "name": "classic cookies",
+            "name": "oatmeal cookies (200 gms)",
             "category": "cookies",
-            "description": "",
-            "tags": "",
-            "labels": [],
-            "pricePerUnit": 0.0,
-            "images": [],
+            "description": "Oatmeal Cookies are the BEST soft and chewy cookie recipe, made with oats, brown sugar, cinnamon, and vanilla extract,",
+            "tags": ["classic cokkies", "eggless"],
+            "labels": ["classic"],
+            "pricePerUnit": 70.0,
+            "images": [{
+                    "url": "https://drive.google.com/file/d/1TUshohQDse4xEJIaFEVddCqXFtV7VZcR/view?usp=sharing",
+                    "alt": "oatmeal cookies"
+                },
+                {
+                    "url": "https://drive.google.com/file/d/1ioW_4kP8KU4JCSEIZA-09fVwLIUJt2vM/view?usp=sharing",
+                    "alt": "oatmeal cookies"
+                },
+                {
+                    "url": "https://drive.google.com/file/d/1JhpO4xPfy3RjlWHounSVmUxARIGmYgBU/view?usp=sharing",
+                    "alt": "oatmeal cookies"
+                }
+            ],
             "ingredients": [
                 "Cracked Sugar",
                 "Brown Sugar",
                 "Chocolate Chunk",
-                "Peanut Butter",
-                "Oatmeal Raisin"
+                "oatmeal",
+                "Raisins"
             ],
-            "sellingUnits": "grams"
+            "sellingUnits": "grams",
+            "calories": 195.5
         },
         {
             "id": 9,
+            "name": "sea salt caramel cookies (200 grams)",
+            "category": "cookies",
+            "description": "These Salted Caramel Cookies are a match in caramel + flaky sea salt + white chocolate chip Heaven.  Not only do they taste amazing, but the recipe is incredibly easy on calories",
+            "tags": ["sea salt", "cookies"],
+            "labels": [" sea salt", "eggless"],
+            "pricePerUnit": 90.0,
+            "images": [{
+                "url": "https://drive.google.com/file/d/1JhpO4xPfy3RjlWHounSVmUxARIGmYgBU/view?usp=sharing",
+                "alt": "sea salt caramel cookies"
+            }],
+            "ingredients": ["caramel candy", "sea salt"],
+            "sellingUnits": "grams",
+            "calories": 150.0
+        },
+        {
+            "id": 10,
             "name": "sea salt caramel cookies",
             "category": "cookies",
             "description": "",
             "tags": "",
             "labels": [],
-            "pricePerUnit": 0.0,
+            "pricePerUnit": 90.0,
             "images": [],
             "ingredients": ["caramel candy", "sea salt"],
             "sellingUnits": "grams"
         },
         {
-            "id": 10,
+            "id": 11,
             "name": "flourless cake",
             "category": "cake and pastries",
             "description": "",
