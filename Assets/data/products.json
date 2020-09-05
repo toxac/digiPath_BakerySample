@@ -16,9 +16,14 @@
             "description": ""
         },
         {
-            "name": "pies and tarts",
+            "name": "subscription",
+            "description": ""
+        },
+        {
+            "name": "custom",
             "description": ""
         }
+
     ],
     "sellingUnits": ["grams", "numbers", "pack"],
     "products": [{
