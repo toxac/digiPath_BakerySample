@@ -236,16 +236,25 @@
             "labels": [" sea salt", "eggless"],
             "pricePerUnit": 90.0,
             "images": [{
-                "url": "https://drive.google.com/file/d/1JhpO4xPfy3RjlWHounSVmUxARIGmYgBU/view?usp=sharing",
-                "alt": "sea salt caramel cookies"
-            }],
+                    "url": "https://drive.google.com/file/d/1dq5x-gJ_aSfFZ_jARNMquDS-Z0kLIKc-/view?usp=sharing",
+                    "alt": "sea salt caramel cookies"
+                },
+                {
+                    "url": "https://drive.google.com/file/d/1-jK46LEbeMUO3Zb0CVOur0s5nZffTJAI/view?usp=sharing",
+                    "alt": "sea salt caramel cookies"
+                },
+                {
+                    "url": "https://drive.google.com/file/d/1kIhFaHrgJLrHHgwatsmYzpC6bIElHW_F/view?usp=sharing",
+                    "alt": "sea salt caramel cookies"
+                }
+            ],
             "ingredients": ["caramel candy", "sea salt"],
             "sellingUnits": "grams",
-            "calories": 150.0
+            "calories": 164.0
         },
         {
             "id": 10,
-            "name": "sea salt caramel cookies",
+            "name": "chocolate chip cookies (200 grams)",
             "category": "cookies",
             "description": "",
             "tags": "",
