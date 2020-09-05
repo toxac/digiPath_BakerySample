@@ -256,13 +256,27 @@
             "id": 10,
             "name": "chocolate chip cookies (200 grams)",
             "category": "cookies",
-            "description": "",
-            "tags": "",
-            "labels": [],
+            "description": "Ultra thick Bakery Style Chocolate Chip Cookies feature golden brown edges with ooey and gooey centers.",
+            "tags": ["classic cookies", "cookies"],
+            "labels": ["eggless", "classic"],
             "pricePerUnit": 90.0,
-            "images": [],
-            "ingredients": ["caramel candy", "sea salt"],
-            "sellingUnits": "grams"
+            "images": [{
+                    "url": "https://drive.google.com/file/d/1KyqV9ABFqxN6h2tBgnisN1_cc_tVV40c/view?usp=sharing",
+                    "alt": "chocolate chip cookies"
+                },
+                {
+                    "url": "https://drive.google.com/file/d/1uUM68FuPdl5jrb0xkZfrV8XXn_sW7oyE/view?usp=sharing",
+                    "alt": "chocolate chip cookies"
+                },
+                {
+                    "url": "https://drive.google.com/file/d/1sb_-RfQdX94ICoDp-fnbaLaNuFRVDJG9/view?usp=sharing",
+                    "alt": "chocolate chip cookies"
+                }
+
+            ],
+            "ingredients": ["vanilla", "sea salt", "brown sugar"],
+            "sellingUnits": "grams",
+            "calories": 195.50
         },
         {
             "id": 11,
