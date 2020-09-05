@@ -272,15 +272,38 @@
                     "url": "https://drive.google.com/file/d/1sb_-RfQdX94ICoDp-fnbaLaNuFRVDJG9/view?usp=sharing",
                     "alt": "chocolate chip cookies"
                 }
-
             ],
             "ingredients": ["vanilla", "sea salt", "brown sugar"],
             "sellingUnits": "grams",
-            "calories": 195.50
+            "calories": 195.5
         },
         {
             "id": 11,
-            "name": "flourless cake",
+            "name": "chocolate cake (500 grams)",
+            "category": "cake and pastries",
+            "description": "",
+            "tags": "",
+            "labels": ["gluten free"],
+            "pricePerUnit": 0.0,
+            "images": [],
+            "ingredients": [],
+            "sellingUnits": "grams"
+        },
+        {
+            "id": 12,
+            "name": "vanilla cake (500 grams)",
+            "category": "cake and pastries",
+            "description": "",
+            "tags": "",
+            "labels": [],
+            "pricePerUnit": 0.0,
+            "images": [],
+            "ingredients": [],
+            "sellingUnits": "grams"
+        },
+        {
+            "id": 13,
+            "name": "cheesecake (500 grams)",
             "category": "cake and pastries",
             "description": "",
             "tags": "",
